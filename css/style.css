@@ -34,7 +34,8 @@ h2 {
 
 #bio-image {
     width: 200px;
-    margin: 25px;
+    margin-right: 25px;
+    padding: 0;
     vertical-align: top;
 }
 
